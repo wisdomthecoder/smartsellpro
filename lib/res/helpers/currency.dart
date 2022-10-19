@@ -1,0 +1,3 @@
+class Currency {}
+
+String naira = '₦';
